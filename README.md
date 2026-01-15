@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/New-Tab-Software-Solution/.github/main/logo.png" alt="New Tab Software Solution Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/New-Tab-Software-Solution/.github/main/main/logo.png" alt="New Tab Software Solution Logo" width="200"/>
 </p>
 
 <h1 align="center">New Tab Software Solution</h1>
